@@ -59,5 +59,9 @@ shopping-cart-stage=quay.io/${QUAY_USR}/do400-deploying-environments:build-${BUI
 """
 }
 }
+-n ${APP_NAMESPACE} --record
+"""
+}
+}
   }
 }
